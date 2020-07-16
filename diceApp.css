@@ -137,8 +137,9 @@ i {
 .btn-roll { top: 423px;}
 .btn-hold { top: 487px;}
 .form{ top:310px;}
-#submit{top:30px;}
-
+#submit{
+    top:370px;
+}
 .dice {
     position: absolute;
     left: 50%;
